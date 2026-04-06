@@ -5,6 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import pyautogui
 from datetime import date
+'''Cria planilha de Excel e Gráficos com matplotlib para registrar evolução nos treinos da academia'''
 
 def salvar_treino():
     exercicio = campo_exercicio.get()
