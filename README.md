@@ -3,7 +3,7 @@ TRABALHO DA FACULDADE
 
 Repositório com 9 atividades desenvolvidas nas linguagens:
 - Python
-- BAT
+- .BAT
 - VBScript
 
 Aluno: Guilherme Silva
