@@ -7,4 +7,5 @@ Repositório com 9 atividades desenvolvidas nas linguagens:
 - VBScript
 
 Aluno: Guilherme Oliveira Silva
+
 Curso: ADS
