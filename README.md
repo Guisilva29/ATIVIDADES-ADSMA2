@@ -6,5 +6,5 @@ Repositório com 9 atividades desenvolvidas nas linguagens:
 - .BAT
 - VBScript
 
-Aluno: Guilherme Silva
+Aluno: Guilherme Oliveira Silva
 Curso: ADS
